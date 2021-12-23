@@ -1,0 +1,5 @@
+- Set up and ran a local express server (app) and mongodb
+- Created routes for CRUD operations and sent back dummy responses
+- Set up data schema to correspond to db schema and allow interaction with db
+- Created middleware function
+- Using Async Await - alwaysuse try and catch
